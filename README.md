@@ -61,3 +61,9 @@ A modern Android application built using Jetpack Compose, MVVM, and MVI architec
 
 ---
 
+## 📽️ Demo
+
+A walkthrough video is available here: [📺 Click to Watch Demo](https://drive.google.com/file/d/1tq4OtmrbKnD2ZyhxAxABaQ-puKhn5mWU/view?usp=sharing)  
+
+---
+
